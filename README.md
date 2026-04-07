@@ -82,3 +82,34 @@ The Power BI dashboard provides:
 ---
 
 ## 📁 Repository Structure
+📁 germany-climate-analysis
+┣ 📁 data
+┃ ┗ CO2_emissions_germany.xlsx
+┣ 📁 dashboard
+┃ ┗ germany_dashboard.pbix
+┣ 📁 report
+┃ ┗ germany_emissions_analysis.pdf
+┣ README.md
+
+---
+
+## ⚠️ Limitations
+- GDP, co2 per GDP, and GDP per capita data unavailable for 2023–2024  
+
+---
+
+## 🌐 Climate Perspective
+This project highlights a key paradox:
+
+> Countries with lower emissions suffer more,  
+> while high emitters carry historical responsibility.
+
+---
+
+## 👩‍💻 Author
+**Anjali Arya**  
+Data Analytics Student  
+
+---
+
+## ⭐ If you found this project insightful, consider giving it a star!
