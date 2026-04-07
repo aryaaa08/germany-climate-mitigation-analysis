@@ -81,18 +81,6 @@ The Power BI dashboard provides:
 
 ---
 
-## 📁 Repository Structure
-📁 germany-climate-analysis
-┣ 📁 data
-┃ ┗ CO2_emissions_germany.xlsx
-┣ 📁 dashboard
-┃ ┗ germany_dashboard.pbix
-┣ 📁 report
-┃ ┗ germany_emissions_analysis.pdf
-┣ README.md
-
----
-
 ## ⚠️ Limitations
 - GDP, co2 per GDP, and GDP per capita data unavailable for 2023–2024  
 
